@@ -1,9 +1,0 @@
-APP_NAME: genealogical-tree
-
-DB_PG_HOST: localhost
-DB_PG_PORT: '9999'
-DB_PG_USERNAME: genealogical_tree
-DB_PG_PASSWORD: genealogical_tree
-DB_PG_NAME: genealogical_tree
-
-DB_SCHEMA: genealogical_tree

@@ -1,1 +1,0 @@
-create schema genealogical_tree;
